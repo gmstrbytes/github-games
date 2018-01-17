@@ -1,8 +1,8 @@
-## Welcome to GitHub Games
+## Welcome to gmstrbytes' GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+gmstrbytes' github games
 
-You can play the game at: https://githubschool.github.io/github-games/
+You can play the game at: https://github.io/gmstrbytes/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 

@@ -12,3 +12,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
  For development, the Github customisations for Terminal might be a good starte: https://github.com/fabriziocucci/git-bash-for-mac
 
 Find out about the customizations that Matt has for his zsh - looks really cool.
+
+Git book: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
